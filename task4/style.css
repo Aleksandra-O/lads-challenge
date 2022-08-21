@@ -1,0 +1,9 @@
+#main {
+  margin: 10% auto 0 auto;
+  width: 1000px;
+  text-align: center;
+}
+#userChoose {
+  display: flex;
+  align-content: space-between;
+}
